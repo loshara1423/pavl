@@ -105,12 +105,4 @@ a:visited{
 	margin: 20px auto;
 	button-color: #efe1c4;
   }
-  .container span {
-	font-size: 20px;
-	margin-right: 15px;
-  }
-  @media (max-width: 450px) {
-	.container {
-	  text-align: center;
-	}
   }
