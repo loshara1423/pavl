@@ -95,6 +95,8 @@ a:visited{
 
 #korzinaimg > img {
   width: 200px;
+  border: 10px solid #ae7503;
+  border-radius: 5px;
 }
 
 .container {   width: 75%;
@@ -105,7 +107,7 @@ a:visited{
 	margin: 20px auto;
   }
 .button { 
-      background-color:#efe1c4; 
+      background-color: gray; 
       color: black; 
       border: 2px solid #f2f2f2; 
       padding: 10px 20px; 
