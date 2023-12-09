@@ -104,7 +104,7 @@ a:visited{
 	padding: 20px;
 	margin: 20px auto;
   }
-button { 
+#button { 
       background-color: #ff0000; /* Красный цвет */ 
       color: white; 
       border: none; 
