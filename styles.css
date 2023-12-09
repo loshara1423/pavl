@@ -105,11 +105,10 @@ a:visited{
 	padding: 20px;
 	margin: 20px auto;
   }
-#button { 
-      background-color: #ff0000; /* Красный цвет */ 
+.pink-button { 
+      background-color: #efe1c4; 
       color: white; 
       border: none; 
       padding: 10px 20px; 
       cursor: pointer; 
-    }
   }
