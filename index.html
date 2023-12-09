@@ -44,7 +44,14 @@
         <p><span>Алексей Фролов</span> г. Яшкино</p>
         <p>Всё супер!</p>
       </div>
-		<script src="cart.js"></script>
+		<form id="review-form">
+    <input type="text" name="name" placeholder="Ваше имя" required>
+    <br>
+    <textarea name="review" placeholder="Ваш отзыв" required></textarea>
+    <button type="submit" id="submit-review">Отправить отзыв</button>
+</form>
+<div id="results">
+</div>
 </div>
 </body>
 </html>
