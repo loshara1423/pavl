@@ -105,8 +105,8 @@ a:visited{
 	margin: 20px auto;
   }
 .button { 
-      background-color:white; 
-      color: red; 
+      background-color:#efe1c4; 
+      color: black; 
       border: 2px solid #f2f2f2; 
       padding: 10px 20px; 
       cursor: pointer; 
