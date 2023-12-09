@@ -95,12 +95,12 @@ a:visited{
 
 #korzinaimg > img {
   width: 200px;
-  border: 5px solid #ae7503;
+  border: 2px solid #ae7503;
   border-radius: 5px;
 }
 
 .container {   width: 75%;
-	border: 2px solid #efe1c4;
+	border: 2px solid #ae7503;
 	background-color: #f2f2f2;
 	border-radius: 5px;
 	padding: 20px;
