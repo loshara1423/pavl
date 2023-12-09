@@ -103,6 +103,9 @@ a:visited{
 	border-radius: 5px;
 	padding: 20px;
 	margin: 20px auto;
-	button-color: #efe1c4;
   }
+.button {
+    background-color: #f2f2f2;
+    color: #efe1c4;
+}
   }
