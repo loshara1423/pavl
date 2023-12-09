@@ -87,18 +87,17 @@ a:visited{
   padding-bottom: 15px;
 }
 
-
-#korzinaimg > img {
-  width: 200px;
-}
-
-
 #korzina {
   width: 820px;
   height: 450px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+
+#korzinaimg > img {
+  width: 200px;
+}
+
 .container {   width: 75%;
 	border: 2px solid #efe1c4;
 	background-color: #f2f2f2;
