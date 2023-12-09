@@ -104,4 +104,11 @@ a:visited{
 	padding: 20px;
 	margin: 20px auto;
   }
+button { 
+      background-color: #ff0000; /* Красный цвет */ 
+      color: white; 
+      border: none; 
+      padding: 10px 20px; 
+      cursor: pointer; 
+    }
   }
