@@ -80,6 +80,12 @@ a:visited{
 	font-style: italic;
 	letter-spacing: 3px;
 }
+.aoa{
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 #korzinaimg > img {
   width: 200px;
 }
