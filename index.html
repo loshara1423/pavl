@@ -36,13 +36,21 @@
 		<h3><span class="bold italic">Павленко Дмитрий </span></h3>
         <h4><span class="bold italic">Тайга </span></h4>
 	</div>
-    <div class="container">
-        <p><span>Марина Белова</span> г. Тайга</p>
-        <p>Качество хорошее. Всем довольна</p>
-      </div>
-      <div class="container">
-        <p><span>Алексей Фролов</span> г. Яшкино</p>
-        <p>Всё супер!</p>
+        <div id="reviewForm"> 
+    <h2>Оставьте свой отзыв</h2> 
+    <label for="name">Ваше имя:</label> 
+    <input type="text" id="name" required> 
+ 
+    <label for="message">Ваш отзыв:</label> 
+    <textarea id="message" rows="4" required></textarea> 
+ 
+    <button onclick="addReview()">Добавить отзыв</button> 
+  </div> 
+ 
+  <div id="reviewsContainer"> 
+  </div> 
+ 
+  <script src="script.js"></script>
       </div>
 
 </div>
