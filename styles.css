@@ -106,10 +106,10 @@ a:visited{
 	padding: 20px;
 	margin: 20px auto;
   }
-.pink-button { 
-      background-color: #efe1c4; 
+.button { 
+      background-color: red; 
       color: white; 
-      border: none; 
+      border: 2px solid #efe1c4; 
       padding: 10px 20px; 
       cursor: pointer; 
   }
