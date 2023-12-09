@@ -86,9 +86,13 @@ a:visited{
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
+
 #korzinaimg > img {
   width: 200px;
 }
+
+
 #korzina {
   width: 820px;
   height: 450px;
